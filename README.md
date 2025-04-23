@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jmsiovino
-- 👀 I’m interested in getting a full time position in full stack development or machine learning
+- 👀 Procurement professional trying to learn machine learning (and coding in general) and apply it to my field. 
 - 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on anything written in Python
 - 📫 Reach me at my LinkedIn
